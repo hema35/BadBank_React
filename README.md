@@ -1,3 +1,6 @@
+ # Project Title:
+## BadBank using React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -26,6 +29,18 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+# How to Run:
+To clone and run this application, you must install GIT on your machine.
+
+Go to the repository and copy the link of the repo.
+
+Change the current working directory to the location where you want the cloned directory.
+
+Clone this repository: Type - $ git clone repo name
+
+Press Enter to create your local clone
+ # License:
+This project is licensed under the MIT license. The original template is from the xPRO Full stack development course.
 
 
 
